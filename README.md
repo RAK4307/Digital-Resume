@@ -20,6 +20,10 @@ HTML: For creating the structure and content of the resume.
 
 CSS: For styling and ensuring the resume looks visually appealing on any device.
 
+## 🚀 Live Demo
+
+https://digital-resume43.netlify.app/
+
 
 ## 🛠️ Installation 🛠️
 
